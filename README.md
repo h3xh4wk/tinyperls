@@ -1,2 +1,2 @@
-# jantperl
-running ant tasks using Perl
+# littleperl
+Reworking to accomodate perl utils .. 
